@@ -11,7 +11,7 @@ package operator;
 public class OperatorEquality {
     public static void main(String[] args) {
         int i = 5;
-        intt j = 6;
+        int j = 6;
         System.out.println(i==5);
         System.out.println(i==6);
         System.out.println(i==j);
